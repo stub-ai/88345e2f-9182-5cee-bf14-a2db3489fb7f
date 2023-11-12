@@ -1,0 +1,1 @@
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"Create a Tic Tac Toe game in Java and push the code to a GitHub repository.","md5":"30a02727ceb65c712c8e1aae935da31d"}]}
